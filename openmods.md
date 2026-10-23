@@ -39,6 +39,8 @@ Nothing to do: the mod works as soon as you load a game.
 - Game version: 1.12.0 (`1.12.0`).
 - The mod replaces one game file: the player's attribute table `DT_PlayerAttributes`. A mod that replaces the same
   file conflicts with this one; only one of them works.
+- "Attack Speed Enhanced" replaces the same table. To get both, install "More Defense and Heal + Attack Speed
+  Enhanced" instead of the two: it holds the changes of both in one table.
 - A game update that changes this table needs a new build of the mod. Until then, the mod puts the older version of
   the table back; remove the mod after a game update until a new version is out.
 

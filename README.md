@@ -31,6 +31,10 @@ All other rows are the game's values of the version above.
   `GE_PP_Trollweed_Passive`, `GE_PP_Moonshine_Passive`). So 0.5 is probably half the damage, and those bonuses add to
   it.
 
+"Attack Speed Enhanced" (`mortalshell2_attackspeedenhanced`) replaces the same table, so only one of the two works.
+"More Defense and Heal + Attack Speed Enhanced" (`mortalshell2_defhealattackspeed`) holds the changes of both in one
+table.
+
 The mod replaces whole assets. A mod that changes the same assets conflicts with this one, and a game update that
 changes them needs a new build of the mod.
 

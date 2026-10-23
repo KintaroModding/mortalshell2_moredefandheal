@@ -1,0 +1,16 @@
+{
+  "name": "More Defense and Heal",
+  "folder": "mortalshell2_moredefandheal",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "Each heal charge restores 70 instead of 40 health, and the player takes about half the damage (base damage reduction 0.5 instead of 0).",
+  "kind": "asset",
+  "game": "mortalshell2",
+  "gameFolder": "Mortal Shell II",
+  "paksPath": "MortalShell2\\Content\\Paks",
+  "gameVersion": "1.12.0",
+  "engine": "UE5_6",
+  "mappings": "MortalShell2-1.12.0",
+  "pakName": "mortalshell2_moredefandheal_P",
+  "structs": []
+}

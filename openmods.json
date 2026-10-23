@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "More Defense and Heal",
+  "summary": "Each heal charge restores 70 instead of 40 health, and you take about half the damage (base damage reduction 0.5 instead of 0).",
+  "games": ["mortal-shell-ii"],
+  "tags": ["gameplay"],
+  "gameVersions": ["1.12.0"],
+  "cover": "docs/cover.png"
+}

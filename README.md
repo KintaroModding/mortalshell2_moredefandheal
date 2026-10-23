@@ -18,7 +18,7 @@ no enemy uses it. The mod changes two `BaseValue`s:
 | Row | Game | Mod |
 |---|---|---|
 | `PlayerAttributeSet.HealAmountPerCharge` | 40 | 70 |
-| `SpartaCombatSet.BaseDamageReduction` | 0 | 0.5 (range 0 to 1.0) |
+| `SpartaCombatSet.BaseDamageReduction` | 0 | 0.5 |
 
 All other rows are the game's values of the version above.
 
